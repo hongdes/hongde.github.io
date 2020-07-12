@@ -1,0 +1,2 @@
+webpackJsonp([11],{"4fxi":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  加油盆友们\n")])},staticRenderFns:[]},a=t("VU/8")({name:"Dashboard",data:function(){return{}}},r,!1,null,null,null);n.default=a.exports}});
+//# sourceMappingURL=11.95e6a30b3a162bdf59d3.js.map
